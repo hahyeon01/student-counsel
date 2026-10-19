@@ -1,0 +1,6 @@
+{
+  "name": "나침반 (Nachimban) - 고등학생 AI 진로·진학 상담 센터",
+  "description": "고등학생을 위한 AI 맞춤형 진로·학과 탐색, 고교학점제 선택과목 설계, 학생부 세특 로드맵 및 상담 데이터 저장 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
